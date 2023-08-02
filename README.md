@@ -6,7 +6,7 @@ in the fight against bandits in the central rift region of Kenya. This was
 a joint interdisciplinary project that inolved electrical and mechanical students.
 
 My task was to develop a drone controller that allowed for communication between the drone
-and the pilot.
+and the pilot. You can read my more exhaustive report from [Report folder](./Report)
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
   <figure style="margin-right: 20px; margin-bottom: 20px; flex: 1 1 300px;">
     <img src="/Images/Drone Controller Front-view.jpg" alt="Drone Controller Front-view" style="width: 100%; height: auto;">
