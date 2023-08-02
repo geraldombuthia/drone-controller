@@ -7,6 +7,20 @@ a joint interdisciplinary project that inolved electrical and mechanical student
 
 My task was to develop a drone controller that allowed for communication between the drone
 and the pilot.
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+  <figure style="margin-right: 20px; margin-bottom: 20px; flex: 1 1 300px;">
+    <img src="/Images/Drone Controller Hardware.jpg" alt="Drone Controller Hardware" style="width: 100%; height: auto;">
+    <figcaption>Tafiti Ground Terminal 3D Model complete</figcaption>
+  </figure>
+  <figure style="margin-right: 20px; margin-bottom: 20px; flex: 1 1 300px;">
+    <img src="/Images/Drone Controller Front-view.jpg" alt="Drone Controller Front-view" style="width: 100%; height: auto;">
+    <figcaption>Drone Controller Front-view.jpg</figcaption>
+  </figure>
+  <figure style="flex: 1 1 300px;">
+    <img src="/Images/Drone Controller Receiver Hardware.jpg" alt="Drone Controller Receiver Hardware.jpg" style="width: 100%; height: auto;">
+    <figcaption>Drone Controller Receiver Hardware</figcaption>
+  </figure>
+</div>
 
 ## Main Objective
 To design, develop and test systems for a drone as a security solution with the capacity to achieve flight and perfom surveillance and reconnaisancce security missions.
