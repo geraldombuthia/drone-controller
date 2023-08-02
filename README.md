@@ -45,9 +45,21 @@ Only shows my area of work. The Microcontroller in the drone system segment is c
 
 ## Programming Language
 C++
+## Communication Interfaces and Protocols used
+SPI
+I2C
+NTP
+Serial Communication
 ## Software used
 - Arduino software - An Integrated Design Environment allowing for code development and compiling.
 - Proteus - For general component simulation
 - KiCAD - For circuit design and Schematic
 - MatLab - For antenna design simulation
 - FreeRTOS -  A Real-time Operating System for Embedded microcontrollers. Allows for multitasking capabilities
+
+## Observations
+Data from the Joysticks was transferred to the receiver terminal.
+A range of 50metres was achieved using ASK transmitter and Receiver as the SX1278 were out of stock at the time.
+A higher range could have been achieved if the sx1278 modules were used instead.
+Read my report in the Report folders.
+A data file containing a log of all the joystick movements, sensor readings and operations is saved onto the SD card.
