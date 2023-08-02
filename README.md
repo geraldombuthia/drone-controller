@@ -35,7 +35,7 @@ To design, develop and test systems for a drone as a security solution with the 
 3. To design and implement an interface to display operation status and assist in drone piloting.
 4. To design and implement a good power supply system to provide the right amount of power for the ground station system.
 5. To design a printed circuit for the ground and UAV system implementation.
-6. To design a storage mechanismto store flight data and logs.
+6. To design a storage mechanism to store flight data and logs. Should use real time in data storage.
 7. To design a fast and effecient software to run the processes.
 
 ## Block Diagram of the Full Electronic System
